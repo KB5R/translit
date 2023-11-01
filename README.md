@@ -20,3 +20,5 @@
 * Беликов Кирилл Глебович will make Belikov.K.G@gmail.com
 * And save to a text document output.txt
 ---
+# Notes...
+* All results provided to the conference registry
