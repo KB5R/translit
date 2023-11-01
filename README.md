@@ -14,3 +14,8 @@
 * Беликов Кирилл Глебович will make Belikov.K.G
 * And save to a text document output.txt.
 ---
+# What he can do
+* Creating mails 
+* Fetch the email domain name: Example @gmail.com
+* Беликов Кирилл Глебович will make Belikov.K.G@gmail.com
+* And save to a text document output.txt
