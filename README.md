@@ -21,4 +21,4 @@
 * And save to a text document output.txt
 ---
 # Notes...
-* All results provided to the conference registry
+* All results are rendered in uppercase
