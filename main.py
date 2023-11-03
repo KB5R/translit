@@ -35,7 +35,7 @@ if mail == 'X':
         name1 = words[0]
         name2 = words[1]
         name3 = words[2]
-        x = name1.title() + '.' + name2[:1].upper() + '.' + name3[:1].upper()
+        x = name1.lower() + '.' + name2[:1].lower() + '.' + name3[:1].lower()
         x = transliterate(x)
 
         with open("output.txt", "a") as file:
@@ -51,7 +51,7 @@ elif mail == 'Y':
         name2 = words[1]
         name3 = words[2]
 
-        x = (name1.title() + '.' + name2[:1].upper() + '.' + name3[:1].upper())
+        x = (name1.lower() + '.' + name2[:1].lower() + '.' + name3[:1].lower())
         x = transliterate(x)
         q = x + mmmail
         with open("output.txt", "a") as file:
